@@ -1,17 +1,20 @@
-<h1 align="center">Hi, I'm Nikos 👋</h1>
+<div align="center">
+  <h1>Hi, I'm Nikos 👋</h1>
+  <p><em>Computer Science student passionate about backend systems, clean architecture, and automation.</em></p>
 
-<p align="center">
-  <em>Computer Science student passionate about backend systems, clean architecture, and automation.</em>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/nikos-aivaliotis-187b57396/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:nikosaiva06@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</p>
+
+  <br><br>
+  <h3>🛠️ Core Tech Stack</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,git,github,flask,fastapi,githubactions,linux,docker,supabase,postgres,tailwind," />
+  </a>
+</div>
 
 ---
 
@@ -53,7 +56,7 @@ Pure-Python CLI task manager using only the standard library.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack Detailed Breakdown
 
 **Languages & Frameworks**
 
