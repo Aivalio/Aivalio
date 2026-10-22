@@ -59,7 +59,7 @@ Pure-Python CLI task manager using only the standard library.
 ### 🧠 [Software Engineering Playbook](https://github.com/Aivalio/software-engineering-playbook)
 A comprehensive methodology and playbook for building production-ready software projects from scratch to deployment, covering modern architectures, Git workflows, and CI/CD.
 
-**Stack:** `Software Engineering` `Git Workflows` `CI/CD` `Architecture` `Best Practices` 🔗 [**Live Demo**](https://weatherdashboard-5nyksu68u8jgfbekbcxy8m.streamlit.app/) · 📦 [**Source**](https://github.com/Aivalio/software-engineering-playbook) 
+**Stack:** `Software Engineering` `Git Workflows` `CI/CD` `Architecture` `Best Practices` 🔗 [**Live Demo**](https://aivalio.github.io/software-engineering-playbook/) · 📦 [**Source**](https://github.com/Aivalio/software-engineering-playbook) 
 
 ---
 
