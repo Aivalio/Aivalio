@@ -96,16 +96,36 @@ A comprehensive methodology and playbook for building production-ready software 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Overview
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aivalio&theme=tokyonight&hide_border=true" alt="GitHub Activity Graph" width="95%"/>
+  <!-- GitHub Streak Stats (Dynamic Card) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aivalio&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="155"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aivalio&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="155"/>
+  <!-- GitHub Profile Badges (Shields.io - 100% Reliable) -->
+  <img src="https://img.shields.io/github/followers/Aivalio?label=Followers&style=for-the-badge&color=1F2937&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Aivalio?style=for-the-badge&color=1F2937&logo=github" alt="Stars"/>
+  <img src="https://img.shields.io/badge/Main_Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</div>
+
+<br>
+
+<div align="center">
+  <p>
+    <a href="https://github.com/Aivalio">
+      <img src="https://img.shields.io/badge/Public_Repos-6+-0A66C2?style=flat-square&logo=github" alt="Repos"/>
+    </a>
+    <a href="https://github.com/Aivalio">
+      <img src="https://img.shields.io/badge/Primary_Stack-FastAPI_%7C_PostgreSQL-009688?style=flat-square&logo=fastapi" alt="Stack"/>
+    </a>
+    <a href="https://github.com/Aivalio">
+      <img src="https://img.shields.io/badge/Focus-Clean_Architecture-FF4B4B?style=flat-square" alt="Focus"/>
+    </a>
+  </p>
 </div>
 
 ---
