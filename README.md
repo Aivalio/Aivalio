@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Nikos 👋</h1>
-  <p><em>Computer Science student passionate about backend systems, clean architecture, and automation.</em></p>
+  <p><em>Computer Science student at DIT NKUA, passionate about backend systems, clean architecture, and automation.</em></p>
 
   <a href="https://www.linkedin.com/in/nikos-aivaliotis-187b57396/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -12,7 +12,7 @@
   <br><br>
   <h3>🛠️ Core Tech Stack</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,git,github,flask,fastapi,githubactions,linux,docker,supabase,postgres,tailwind," />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,git,github,flask,fastapi,githubactions,linux,docker,supabase,postgres,tailwind" />
   </a>
 </div>
 
@@ -20,9 +20,17 @@
 
 ## 🚀 Featured Projects
 
+### 💰 [Advanced Expense Tracker](https://github.com/Aivalio/expense-tracker) *(Under Construction)*
+Production-grade full-stack backend architecture for expense tracking. Built with clean architecture principles, service layer pattern, and strict typing.
+
+**Stack:** `Python` `FastAPI` `PostgreSQL` `SQLAlchemy 2.0` `Alembic` `Docker` `pytest`
+📦 [**Source**](https://github.com/Aivalio/expense-tracker)
+
+---
+
 ### ✈️ [Flight Search App](https://github.com/Aivalio/mysql-web-app)
 Flask + MySQL web app exposing **5 analytical queries** over an airline database (8 tables).
-Includes admin authentication, complex multi-table joins, and 14 unit tests.
+Includes admin authentication, complex multi-table joins, and unit tests.
 
 **Stack:** `Python` `Flask` `SQLAlchemy` `MySQL` `pytest`
 🔗 [**Live Demo**](https://mysql-web-app.onrender.com/) · 📦 [**Source**](https://github.com/Aivalio/mysql-web-app)
@@ -59,26 +67,28 @@ Pure-Python CLI task manager using only the standard library.
 ### 🧠 [Software Engineering Playbook](https://github.com/Aivalio/software-engineering-playbook)
 A comprehensive methodology and playbook for building production-ready software projects from scratch to deployment, covering modern architectures, Git workflows, and CI/CD.
 
-**Stack:** `Software Engineering` `Git Workflows` `CI/CD` `Architecture` `Best Practices` 🔗 [**Live Demo**](https://aivalio.github.io/software-engineering-playbook/) · 📦 [**Source**](https://github.com/Aivalio/software-engineering-playbook) 
+**Stack:** `Software Engineering` `Git Workflows` `CI/CD` `Architecture` `Best Practices`
+🔗 [**Live Demo**](https://aivalio.github.io/software-engineering-playbook/) · 📦 [**Source**](https://github.com/Aivalio/software-engineering-playbook)
 
 ---
-
 
 ## 🛠️ Tech Stack Detailed Breakdown
 
 **Languages & Frameworks**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-**Databases & ORMs**
+**Databases & Tools**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**Tools & Testing**
+**Testing & CI/CD**
 
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -88,10 +98,16 @@ A comprehensive methodology and playbook for building production-ready software 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aivalio&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aivalio&layout=compact&hide_border=true" alt="Top Languages" height="160"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aivalio&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aivalio&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" height="165"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aivalio&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="155"/>
+</div>
 
 ---
 
@@ -99,7 +115,6 @@ A comprehensive methodology and playbook for building production-ready software 
 
 - 💼 **LinkedIn:** [linkedin.com/in/nikos-aivaliotis](https://www.linkedin.com/in/nikos-aivaliotis-187b57396/)
 - 📧 **Email:** [nikosaiva06@gmail.com](mailto:nikosaiva06@gmail.com)
-- 🌐 **Portfolio:** *(coming soon)*
 
 ---
 
