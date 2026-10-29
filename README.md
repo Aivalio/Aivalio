@@ -99,13 +99,17 @@ A comprehensive methodology and playbook for building production-ready software 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aivalio&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aivalio&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" height="165"/>
+  <!-- Αξιόπιστο Stats Card -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Aivalio&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="165"/>
+  
+  <!-- Αξιόπιστο Top Languages Card -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Aivalio&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" height="165"/>
 </div>
 
 <br>
 
 <div align="center">
+  <!-- Streak Stats (Που ήδη σου δουλεύει άψογα) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aivalio&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="155"/>
 </div>
 
